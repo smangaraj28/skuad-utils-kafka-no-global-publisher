@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+
+# System Files
+.vscode
+.DS_Store
+.idea
+
+# Build files
+dist
+
+# Redis dump
+dump.rdb
+
+# Environment variables
+.env
+
+# Coverage Report
+coverage
+.nyc_output
+
+# Miscellaneous
+uploads
+.eslintcache
+
+
